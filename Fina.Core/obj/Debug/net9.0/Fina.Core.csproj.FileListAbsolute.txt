@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\bin\Debug\net9.0\Fina.Core.deps.json
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\bin\Debug\net9.0\Fina.Core.dll
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\bin\Debug\net9.0\Fina.Core.pdb
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\obj\Debug\net9.0\Fina.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\obj\Debug\net9.0\Fina.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\obj\Debug\net9.0\Fina.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\obj\Debug\net9.0\Fina.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\obj\Debug\net9.0\Fina.Core.dll
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\obj\Debug\net9.0\refint\Fina.Core.dll
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\obj\Debug\net9.0\Fina.Core.pdb
+C:\Users\User\Desktop\Curso-baltaio\Fina.Core\obj\Debug\net9.0\ref\Fina.Core.dll
