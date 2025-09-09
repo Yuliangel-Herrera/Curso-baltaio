@@ -1,0 +1,78 @@
+## Build folders ##
+bin/
+obj/
+
+## Visual Studio ##
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider ##
+.idea/
+
+## VS Code ##
+.vscode/
+
+## Auto-generated files ##
+*.dbmdl
+*.log
+*.tlog
+*.cache
+*.pdb
+*.tmp
+*.bak
+*.old
+
+## ASP.NET temporary files ##
+**/App_Data/
+**/App_Start/
+**/Generated_Code/
+
+## NuGet ##
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## DotCover ##
+*.dotCover
+
+## dotnet watch ##
+**/Properties/launchSettings.json
+
+## EF Core tools ##
+Migrations/
+
+## Test Results ##
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Publish folders ##
+publish/
+out/
+
+## Logs ##
+*.log
+
+## macOS ##
+.DS_Store
+
+## Windows ##
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Linux ##
+*.swp
+
+## Others ##
+*.vspscc
+*.vssscc
+_ReSharper*/
