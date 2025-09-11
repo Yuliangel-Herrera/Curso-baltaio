@@ -6,10 +6,6 @@ C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.pk43x8e436.wasm
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.runtime.ew19f13umk.js
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.runtime.js.map
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Core.xo4vq6n7t1.pdb
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Core.ui8gx3vkn7.wasm
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Web.a5fu3gitb7.pdb
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Web.y7ova5b64o.wasm
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
@@ -212,7 +208,6 @@ C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Tasks.Parallel.h8gpnxq5vh.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.IO.FileSystem.Primitives.ycwqqzc7bx.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Security.Claims.i7bcnfuoz7.wasm.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Core.xo4vq6n7t1.pdb.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.IO.Compression.FileSystem.2ue1itbuyd.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Thread.4egdh5fe56.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Memory.g91ozhn0mo.wasm.gz
@@ -238,7 +233,6 @@ C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.Cng.jnrdpemsv6.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\WindowsBase.361km0836k.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.4svgpfnsk6.wasm.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Web.a5fu3gitb7.pdb.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Formats.Tar.awcywewwuv.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.TraceSource.0ckdtqs5j7.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.TypeConverter.wohfqzni64.wasm.gz
@@ -331,7 +325,6 @@ C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Private.Xml.Linq.9v5bzfxeom.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Net.WebClient.xm2q0x6lcx.wasm.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Web.y7ova5b64o.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Handles.qz5nw0ti39.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.p6yboe7yza.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.c5whsk6cyh.wasm.gz
@@ -377,7 +370,6 @@ C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Net.Http.tw31ne0hw8.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Net.WebSockets.Client.124lxvcoty.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.ObjectModel.0krhyoicwc.wasm.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Core.ui8gx3vkn7.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.Csp.d2kiax5rl9.wasm.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.srjvbq70j7.wasm.gz
@@ -1082,13 +1074,6 @@ C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\ne8zt6v
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\t5rh8mnw7v-tjcz0u77k5.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\urj7cms6k8-tptq2av103.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\visiib3mru-lfu7j35m59.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\t0g5qv3jwr-ui8gx3vkn7.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\1p0lqfzkpf-xo4vq6n7t1.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\lsqpzra1nb-y7ova5b64o.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\6vnb7h3g91-a5fu3gitb7.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\59h4n639tv-o3hb84fkyo.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\9ooklsg0t2-txpcs8khmw.gz
-C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\5x4krjbp75-kpx6zkl0ix.gz
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\staticwebassets.development.json
@@ -1098,3 +1083,20 @@ C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\Fina.Web.dll
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\refint\Fina.Web.dll
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\Fina.Web.pdb
 C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\ref\Fina.Web.dll
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Core.wwa04b9vjz.pdb
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Core.qelf31t86q.wasm
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Web.yh3qogdjsz.pdb
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Web.y5dkho0r1a.wasm
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Core.wwa04b9vjz.pdb.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Web.yh3qogdjsz.pdb.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Web.y5dkho0r1a.wasm.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\bin\Debug\net9.0\wwwroot\_framework\Fina.Core.qelf31t86q.wasm.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\Fina.Web.sourcelink.json
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\t0g5qv3jwr-qelf31t86q.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\1p0lqfzkpf-wwa04b9vjz.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\lsqpzra1nb-y5dkho0r1a.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\6vnb7h3g91-yh3qogdjsz.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\59h4n639tv-ovmnbon3kr.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\9ooklsg0t2-el8fz6v658.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\compressed\5x4krjbp75-voboo1119d.gz
+C:\Users\User\Desktop\Curso-baltaio\Fina.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
