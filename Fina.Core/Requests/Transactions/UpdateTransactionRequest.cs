@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Fina.Core.Requests.Transactions
 {
-    internal class UpdateTransactionRequest : Request
+    public class UpdateTransactionRequest : Request
     {
         public long Id { get; set; }
 
@@ -23,3 +23,4 @@ namespace Fina.Core.Requests.Transactions
         public DateTime? PaidOrReceivedAt { get; set; }
     }
 }
+

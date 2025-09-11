@@ -1,25 +1,25 @@
 self.assetsManifest = {
-  "version": "uYwc/bf5",
+  "version": "k6INHEaL",
   "assets": [
     {
       "hash": "sha256-m3oqEsyop9/iGFNL3xMcUrmcZ9gnZVF1a9x+18cbVY0=",
       "url": "Fina.Web.styles.css"
     },
     {
-      "hash": "sha256-2tMjrsNKqKXh2sca4OH+RKI/iMAspvz+wLdJmO9hfZQ=",
-      "url": "_framework/Fina.Core.ui8gx3vkn7.wasm"
+      "hash": "sha256-InFXm4Zy2vcK24o9+UEdIuQF96QjZdSdKaKCvrB8bmY=",
+      "url": "_framework/Fina.Core.qelf31t86q.wasm"
     },
     {
-      "hash": "sha256-gYsfufTlElAc6qB7+ibY/3owrse8okSg4s7JXmKFyYs=",
-      "url": "_framework/Fina.Core.xo4vq6n7t1.pdb"
+      "hash": "sha256-wOjzA2qFwMPXDoLOV+nqSKtOAQYIaTkiHbxWx4Y3dBU=",
+      "url": "_framework/Fina.Core.wwa04b9vjz.pdb"
     },
     {
-      "hash": "sha256-LivgkwvkOFZFu/lVvRnnUefRBjVqmGN3rlEBUGLhKNk=",
-      "url": "_framework/Fina.Web.a5fu3gitb7.pdb"
+      "hash": "sha256-Wq8kcuXOB6vK0Hwj5W294xe0hlYa3CD4ryM46v/khog=",
+      "url": "_framework/Fina.Web.y5dkho0r1a.wasm"
     },
     {
-      "hash": "sha256-Xjq7HO3gdL8GSjTBb9TlkbtBtreWv5tsN8XCxCiwyzw=",
-      "url": "_framework/Fina.Web.y7ova5b64o.wasm"
+      "hash": "sha256-NnxOKAbTeXMaMSrZW6KWGqJfJ0wn6lL2n17v+cGKMiY=",
+      "url": "_framework/Fina.Web.yh3qogdjsz.pdb"
     },
     {
       "hash": "sha256-h2pKkq57/vS3mbEFyiqoupHb66C30OMHzjlzDqfbD40=",
@@ -778,7 +778,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.361km0836k.wasm"
     },
     {
-      "hash": "sha256-rEwPXXa7I8SE1EmoIQs6S0WPEecIRcNOxpfDWnqAaCE=",
+      "hash": "sha256-bLFglhYsCVLqyTSq1LLCSG6Y2mS6WJ8Muh4K8y8xHnA=",
       "url": "_framework/blazor.boot.json"
     },
     {

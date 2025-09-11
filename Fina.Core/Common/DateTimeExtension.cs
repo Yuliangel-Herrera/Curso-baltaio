@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Fina.Core.Common
+{
+    //Extension methods for DateTime
+    public static class DateTimeExtension
+    {
+        //primeiro dia do mês
+        public static DateTime GetFirstDay(this DateTime date, int? year = null, int? month = null)
+            => new(year?? date.Year, month ?? date.Month, 1);
+
+        //último dia do mês
+        public static DateTime GetLastDay(this DateTime date, int? year = null, int? month = null)
+            => new DateTime (
+                year ?? date.Year,
+                month ?? date.Month,
+                day: 1)
+            .AddMonths(1)
+            .AddDays(-1);
+    }
+}

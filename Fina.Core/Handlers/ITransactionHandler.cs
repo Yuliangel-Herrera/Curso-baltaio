@@ -5,7 +5,7 @@ using Fina.Core.Responses;
 
 namespace Fina.Core.Handlers
 {
-    internal interface ITransactionHandler
+    public interface ITransactionHandler
     {
         Task<Responses<Transaction?>> CreateAsync(CreateTransactionRequest request);
         Task<Responses<Transaction?>> UpdateAsync(UpdateTransactionRequest request);
