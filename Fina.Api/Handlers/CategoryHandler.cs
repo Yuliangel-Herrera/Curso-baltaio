@@ -1,7 +1,6 @@
 ﻿using Fina.Api.Data;
 using Fina.Core.Handlers;
 using Fina.Core.Models;
-using Fina.Core.Requests;
 using Fina.Core.Requests.Categories;
 using Fina.Core.Responses;
 using Microsoft.EntityFrameworkCore;
@@ -12,6 +11,7 @@ namespace Fina.Api.Handlers
     {
         public async Task<Responses<Category?>> CreateAsync(CreateCategoryRequest request)
         {
+            await Task.Delay(5000); //simulando um delay de 5 segundos
             var category = new Category //criando uma categoria e atribuindo os valores do request para armazenar no BD
             {
                 Title = request.Title,
@@ -25,7 +25,7 @@ namespace Fina.Api.Handlers
 
                 return new Responses<Category?>(category, code: 201, message: "Categoria criada com sucesso!"); //response
             }
-            catch (Exception e) //não recomendado
+            catch //(Exception e) não recomendado
             {
                 // Serilog, OpenTelemetry
                 // Console.WriteLine(e.Message);

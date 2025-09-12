@@ -21,7 +21,7 @@ namespace Fina.Core.Responses
         }
 
         public TData? Data { get; set; }
-        public string? Message { get; set; } 
+        public string Message { get; set; } 
 
         [JsonIgnore]
         public bool IsSuccess => _code >= 200 && _code < 299;

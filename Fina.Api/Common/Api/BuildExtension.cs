@@ -19,7 +19,7 @@ namespace Fina.Api.Common.Api
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen(c => { c.CustomSchemaIds(n => n.FullName); });
         }
-        public static void AddDateContexts(this WebApplicationBuilder builder)
+        public static void AddDataContexts(this WebApplicationBuilder builder)
         {
             builder
                 .Services
