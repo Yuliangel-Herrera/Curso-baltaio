@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Api\\Fina.Api.csproj": {}
+    "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Api\\Fina.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Api\\Fina.Api.csproj": {
+    "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Api\\Fina.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Api\\Fina.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Api\\Fina.Api.csproj",
         "projectName": "Fina.Api",
-        "projectPath": "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Api\\Fina.Api.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Api\\obj\\",
+        "projectPath": "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Api\\Fina.Api.csproj",
+        "packagesPath": "C:\\Users\\Yuli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yuli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Core\\Fina.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Core\\Fina.Core.csproj"
+              "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Core\\Fina.Core.csproj": {
+                "projectPath": "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Core\\Fina.Core.csproj"
               }
             }
           }
@@ -49,12 +49,16 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.9, )"
@@ -74,6 +78,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             }
           },
           "imports": [
@@ -95,24 +103,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Core\\Fina.Core.csproj": {
+    "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Core\\Fina.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Core\\Fina.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Core\\Fina.Core.csproj",
         "projectName": "Fina.Core",
-        "projectPath": "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Core\\Fina.Core.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Curso-baltaio\\Fina.Core\\obj\\",
+        "projectPath": "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Core\\Fina.Core.csproj",
+        "packagesPath": "C:\\Users\\Yuli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yuli\\Desktop\\unoesc\\Projetos\\Curso-baltaio\\Fina.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yuli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -140,7 +148,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -161,7 +169,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
