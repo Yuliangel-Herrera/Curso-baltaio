@@ -2,6 +2,7 @@
 using Fina.Core.Handlers;
 using Fina.Core.Requests.Transactions;
 using Fina.Core.Responses;
+using Microsoft.AspNetCore.Mvc;
 using System.Transactions;
 
 namespace Fina.Api.Endpoints.Transactions
@@ -17,8 +18,8 @@ namespace Fina.Api.Endpoints.Transactions
                 .Produces<Responses<Transaction?>>();
 
         private static async Task<IResult> HandleAsync(
-            ITransactionHandler handler,
-            CreateTransactionRequest request)
+            [FromServices]  ITransactionHandler handler,
+            [FromBody] CreateTransactionRequest request)
         {
             request.UserId = ApiConfiguration.UserId;
             var result = await handler.CreateAsync(request);

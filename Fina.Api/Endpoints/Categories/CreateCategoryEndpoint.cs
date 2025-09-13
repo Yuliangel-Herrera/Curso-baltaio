@@ -3,6 +3,7 @@ using Fina.Core.Handlers;
 using Fina.Core.Models;
 using Fina.Core.Requests.Categories;
 using Fina.Core.Responses;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Fina.Api.Endpoints.Categories
 {
@@ -17,7 +18,8 @@ namespace Fina.Api.Endpoints.Categories
                .Produces<Responses<Category?>>();
 
         private static async Task<IResult> HandleAsync(
-            ICategoryHandler handler, CreateCategoryRequest request)
+            ICategoryHandler handler, 
+            CreateCategoryRequest request)
         {
             request.UserId = ApiConfiguration.UserId;
             var response = await handler.CreateAsync(request);

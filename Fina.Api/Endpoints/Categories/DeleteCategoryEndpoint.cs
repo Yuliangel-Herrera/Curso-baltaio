@@ -3,6 +3,7 @@ using Fina.Core.Handlers;
 using Fina.Core.Models;
 using Fina.Core.Requests.Categories;
 using Fina.Core.Responses;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Fina.Api.Endpoints.Categories
 {
@@ -16,7 +17,9 @@ namespace Fina.Api.Endpoints.Categories
                .WithOrder(3)
                .Produces<Responses<Category?>>();
 
-        private static async Task<IResult> HandleAsync(ICategoryHandler handler, long id)
+        private static async Task<IResult> HandleAsync(
+            [FromServices] ICategoryHandler handler,
+            long id)
         {
             var request = new DeleteCategoryRequest
             {
