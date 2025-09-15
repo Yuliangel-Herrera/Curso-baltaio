@@ -327,7 +327,6 @@ C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\obj\Debug\net9.0\st
 C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Fina.Api.props
 C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Fina.Api.props
 C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\obj\Debug\net9.0\Fina.Api.csproj.Up2Date
 C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\obj\Debug\net9.0\Fina.Api.dll
 C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\obj\Debug\net9.0\refint\Fina.Api.dll
@@ -509,3 +508,10 @@ C:\Users\LuxSistemas\Desktop\Curso-baltaio\Fina.Api\bin\Debug\net9.0\Microsoft.E
 C:\Users\LuxSistemas\Desktop\Curso-baltaio\Fina.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
 C:\Users\LuxSistemas\Desktop\Curso-baltaio\Fina.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\LuxSistemas\Desktop\Curso-baltaio\Fina.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Yuli\Desktop\unoesc\Projetos\Curso-baltaio\Fina.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

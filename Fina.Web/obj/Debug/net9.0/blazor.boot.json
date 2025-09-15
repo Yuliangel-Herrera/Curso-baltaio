@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Fina.Web",
   "resources": {
-    "hash": "sha256-B9s6D2Ev2Sa0yIKs8o1E5CZDiE/jqUzv7uvoKWkpEf8=",
+    "hash": "sha256-0HbTEUH1MCts/MHFPqu/Pmh08mdKfiytnUNicwnC5+0=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.tnyc7xpluy.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.t32damlu4o.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -202,25 +202,25 @@
       "netstandard.lp03u0xxi4.wasm": "netstandard.wasm",
       "System.Private.CoreLib.9ecf2cskpd.wasm": "System.Private.CoreLib.wasm",
       "dotnet.js": "dotnet.js",
-      "dotnet.native.9ih887ebfz.js": "dotnet.native.js",
-      "dotnet.native.21mns4qp4i.wasm": "dotnet.native.wasm",
-      "dotnet.runtime.st3wwc8rqy.js": "dotnet.runtime.js",
+      "dotnet.native.8bti36lthm.js": "dotnet.native.js",
+      "dotnet.native.tr0cyonrwt.wasm": "dotnet.native.wasm",
+      "dotnet.runtime.tsg4gsv2hg.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Fina.Core.9955560mxb.wasm": "Fina.Core.wasm",
-      "Fina.Core.3oqsos8lpz.pdb": "Fina.Core.pdb",
-      "Fina.Web.j298cxe76x.wasm": "Fina.Web.wasm",
-      "Fina.Web.s45heo25xk.pdb": "Fina.Web.pdb"
+      "Fina.Core.z8e5n677mf.wasm": "Fina.Core.wasm",
+      "Fina.Core.z0hl6wi3c3.pdb": "Fina.Core.pdb",
+      "Fina.Web.ykvnkt2s0g.wasm": "Fina.Web.wasm",
+      "Fina.Web.pul6bvvvfm.pdb": "Fina.Web.pdb"
     },
     "jsModuleNative": {
-      "dotnet.native.9ih887ebfz.js": "sha256-oS7IRiQoVt9ThQ7Y2UM3XoeY0JqPD02cg9IvRdufn2w="
+      "dotnet.native.8bti36lthm.js": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.st3wwc8rqy.js": "sha256-oBRKHAqZUsvCRnCzkQfB7zc45cpKLNq2NKyrG10IKx8="
+      "dotnet.runtime.tsg4gsv2hg.js": "sha256-82FoDmY+LsehdN2u8aSGEutGEKXJHcYaSX/3zptbsCw="
     },
     "wasmNative": {
-      "dotnet.native.21mns4qp4i.wasm": "sha256-RtuwNrUOdAJ5A4aS4ZmceO4ySriaYqTdC7X++6yd9lM="
+      "dotnet.native.tr0cyonrwt.wasm": "sha256-F3/BArijJUydqmwcdWeW3LYyYHBRSu2+pyy8GL1jTV0="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -428,12 +428,12 @@
       "WindowsBase.361km0836k.wasm": "sha256-FacUCEIJYTnbOWgX/R9QP2QnurqRZwRIkDAH0N9z69s=",
       "mscorlib.qiu3j3msqk.wasm": "sha256-QvztpxTOEw4aMIl7zP3QtsPLNv/IWaK5wq22J4ReGrA=",
       "netstandard.lp03u0xxi4.wasm": "sha256-WVQsxULiAiEbyXLKolS7txnWVT82SsvsuMe4jJ+SqqI=",
-      "Fina.Core.9955560mxb.wasm": "sha256-I9nln3sI5RDjQ0kU5arAGkH2kwUvzo2gfRCl1T4rrT4=",
-      "Fina.Web.j298cxe76x.wasm": "sha256-6y/5M7T6xgx+ttIJuyjK8mSOH2vfFVBpr02fUedv+D8="
+      "Fina.Core.z8e5n677mf.wasm": "sha256-Y1aQ9T58Fz0T03hkPFxPX0b+FmYfdpD1Wo9lPVTtWvA=",
+      "Fina.Web.ykvnkt2s0g.wasm": "sha256-okeTVhSIs4QxpJscozJwjtd34qLJMoO0d+/rXn28e9M="
     },
     "pdb": {
-      "Fina.Core.3oqsos8lpz.pdb": "sha256-/cFRL9yL+OOcQO9oiiT+LGjvT/kKOflAMwSl98nvkbc=",
-      "Fina.Web.s45heo25xk.pdb": "sha256-PMLI6tfbpY4nl38reTMCa86jRIb0BUMeIwmwUStMz8Y="
+      "Fina.Core.z0hl6wi3c3.pdb": "sha256-jZDwnudD/XqPlEQ9bu/q6z5+gTL5DvpyK2PXd5+sVvc=",
+      "Fina.Web.pul6bvvvfm.pdb": "sha256-39QD74jQ0qLdyzWSh6H1UmrACEDFmjEhuIZCMoPlJMM="
     }
   },
   "cacheBootResources": true,

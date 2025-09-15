@@ -10,7 +10,7 @@ namespace Fina.Core.Responses
         private int _code = Configuration.DefaultStatusCode;
 
         [JsonConstructor]
-        public Responses() 
+        public Responses() //construtor sem parametros
             => _code = Configuration.DefaultStatusCode;
 
         public Responses(TData? data, int code = Configuration.DefaultStatusCode, string? message = null)

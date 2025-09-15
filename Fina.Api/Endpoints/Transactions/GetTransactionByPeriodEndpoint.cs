@@ -11,12 +11,12 @@ namespace Fina.Api.Endpoints.Transactions
     public class GetTransactionByPeriodEndpoint : IEndpoint
     {
         public static void Map(IEndpointRouteBuilder app)
-            => app.MapGet("/", HandleAsync)
-                .WithName("Transactions: Get All")
-                .WithSummary("Recupera todas as transações")
-                .WithDescription("Recupera todas as transações")
-                .WithOrder(5)
-                .Produces<PagedResponse<List<Transaction>?>>();
+       => app.MapGet("/", HandleAsync)
+           .WithName("Transactions: Get All")
+           .WithSummary("Recupera todas as transações")
+           .WithDescription("Recupera todas as transações")
+           .WithOrder(5)
+           .Produces<PagedResponse<List<Transaction>?>>();
 
         private static async Task<IResult> HandleAsync(
             ITransactionHandler handler,
@@ -31,8 +31,9 @@ namespace Fina.Api.Endpoints.Transactions
                 PageNumber = pageNumber,
                 PageSize = pageSize,
                 StartDate = startDate,
-                EndDate = endDate,
+                EndDate = endDate
             };
+
             var result = await handler.GetByPeriodAsync(request);
             return result.IsSuccess
                 ? TypedResults.Ok(result)

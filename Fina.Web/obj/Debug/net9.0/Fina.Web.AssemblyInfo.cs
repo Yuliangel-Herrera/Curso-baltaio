@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fina.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afa023af636345bb51a98baac2a5c877a8c85ecb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f26329a3cc4a8e8e3cedf0f530dee04f76b6f228")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fina.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fina.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

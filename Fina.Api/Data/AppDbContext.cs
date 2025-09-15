@@ -11,6 +11,7 @@ namespace Fina.Api.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //varre um assembly e aplica automaticamente todas as classes de configuração que implementam a interface
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
     }
