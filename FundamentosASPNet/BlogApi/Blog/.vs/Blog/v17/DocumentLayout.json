@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LuxSistemas\\Desktop\\Cursos\\FundamentosASPNet\\BlogApi\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|Blog.csproj|c:\\users\\luxsistemas\\desktop\\cursos\\fundamentosaspnet\\blogapi\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|Blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|Blog.csproj|c:\\users\\luxsistemas\\desktop\\cursos\\fundamentosaspnet\\blogapi\\blog\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|Blog.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|Blog.csproj|c:\\users\\luxsistemas\\desktop\\cursos\\fundamentosaspnet\\blogapi\\blog\\data\\blogdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|Blog.csproj|solutionrelative:data\\blogdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|Blog.csproj|c:\\users\\luxsistemas\\desktop\\cursos\\fundamentosaspnet\\blogapi\\blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F78C85BB-18FC-D4AC-08B9-0D1BEB8AC6FE}|Blog.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\LuxSistemas\\Desktop\\Cursos\\FundamentosASPNet\\BlogApi\\Blog\\Data\\BlogDataContext.cs",
+              "RelativeDocumentMoniker": "Data\\BlogDataContext.cs",
+              "ToolTip": "C:\\Users\\LuxSistemas\\Desktop\\Cursos\\FundamentosASPNet\\BlogApi\\Blog\\Data\\BlogDataContext.cs",
+              "RelativeToolTip": "Data\\BlogDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:39:11.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LuxSistemas\\Desktop\\Cursos\\FundamentosASPNet\\BlogApi\\Blog\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LuxSistemas\\Desktop\\Cursos\\FundamentosASPNet\\BlogApi\\Blog\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T17:37:56.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\LuxSistemas\\Desktop\\Cursos\\FundamentosASPNet\\BlogApi\\Blog\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\LuxSistemas\\Desktop\\Cursos\\FundamentosASPNet\\BlogApi\\Blog\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwD8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:47:47.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LuxSistemas\\Desktop\\Cursos\\FundamentosASPNet\\BlogApi\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LuxSistemas\\Desktop\\Cursos\\FundamentosASPNet\\BlogApi\\Blog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:46:40.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

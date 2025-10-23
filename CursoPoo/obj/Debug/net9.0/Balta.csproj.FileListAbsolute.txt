@@ -1,0 +1,14 @@
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\bin\Debug\net9.0\Balta.exe
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\bin\Debug\net9.0\Balta.deps.json
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\bin\Debug\net9.0\Balta.runtimeconfig.json
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\bin\Debug\net9.0\Balta.dll
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\bin\Debug\net9.0\Balta.pdb
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\obj\Debug\net9.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\obj\Debug\net9.0\Balta.AssemblyInfoInputs.cache
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\obj\Debug\net9.0\Balta.AssemblyInfo.cs
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\obj\Debug\net9.0\Balta.csproj.CoreCompileInputs.cache
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\obj\Debug\net9.0\Balta.dll
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\obj\Debug\net9.0\refint\Balta.dll
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\obj\Debug\net9.0\Balta.pdb
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\obj\Debug\net9.0\Balta.genruntimeconfig.cache
+C:\Users\LuxSistemas\Desktop\Cursos\CursoPoo\Balta\obj\Debug\net9.0\ref\Balta.dll
